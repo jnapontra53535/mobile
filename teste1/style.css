@@ -1,0 +1,53 @@
+body{
+    margin: 0 auto;
+    background-color: rgb(136, 192, 218);
+
+}
+h2{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 77px;
+    color: aliceblue;
+    font-size: 40px;
+
+}
+.email{
+   border-radius: 4px 4px 4px;
+    background-color:rgb(36, 141, 173);
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+.cadastrar{
+    border-radius: 4px 4px 4px;
+    background-color: rgb(36, 141, 173);
+    color: aliceblue;
+    font-size: 20px;
+}
+.nome{
+    border-radius: 4px 4px 4px;
+    background-color:rgb(36, 141, 173);
+    color: aliceblue;
+    font-size: 20px;
+}
+.limpar{
+    border-radius: 4px 4px 4px;
+    background-color:rgb(36, 141, 173);
+    color: aliceblue;
+    font-size: 20px;
+}
+.Enviar{
+    border-radius: 4px 4px 4px;
+    background-color:rgb(36, 141, 173);
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.limpar:hover{
+    background-color: rgb(32, 104, 122);
+    transition: 1s;
+}
+.Enviar:hover{
+    background-color: rgb(31, 115, 136);
+    transition: 0.5s;
+}
