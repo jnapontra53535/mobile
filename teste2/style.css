@@ -1,0 +1,23 @@
+form{
+    
+    width: 100%;
+    height: 100%;
+    border-radius: 7px 7px 7px;
+    margin-top: 150px;
+    align-items: center;
+    padding-left: 800px;
+   
+    padding-bottom:130px ;
+}
+p{
+    text-align: left;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-weight: bolder;
+    
+}
+body{
+    margin: 0 auto;
+    background-color:rgb(145, 174, 199) ;
+}
