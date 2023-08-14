@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(160, 88, 228);
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+    padding-top: 25px;
+    
+}
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+}
+p{
+    font-size: 30px;
+}
+.inicio{
+    background-color: rgb(192, 167, 240);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fim{
+    background-color: rgb(192, 167, 240);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.botao{
+    background-color: rgb(192, 167, 240);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
